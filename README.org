@@ -1,0 +1,3 @@
+* WPKG Profiles
+
+This repository contains a number of standard WPKG profiles.
