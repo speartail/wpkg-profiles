@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<profiles>
+  <profile id='libreoffice_full'>
+    <package package-id='libreoffice' />
+    <package package-id='libreoffice_help' />
+  </profile>
+</profiles>
