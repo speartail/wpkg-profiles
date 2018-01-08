@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<profiles>
+  <profile id='hp'>
+    <package package-id='hp_sdm' />
+  </profile>
+
+  <profile id='hp_laptop'>
+    <depends profile-id='hp' />
+  </profile>
+
+  <profile id='hp_desktop'>
+    <depends profile-id='hp' />
+  </profile>
+</profiles>
