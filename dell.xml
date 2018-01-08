@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<profiles>
+  <profile id='dell'>
+    <package package-id='dcsu' />
+  </profile>
+
+  <profile id='dell_laptop'>
+    <depends profile-id='dell' />
+  </profile>
+
+  <profile id='dell_desktop'>
+    <depends profile-id='dell' />
+  </profile>
+</profiles>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<profiles>
+  <profile id='lenovo'>
+    <package package-id='tp_systemupdate' />
+  </profile>
+
+  <profile id='lenovo_laptop'>
+    <depends profile-id='lenovo' />
+  </profile>
+
+  <profile id='lenovo_desktop'>
+    <depends profile-id='lenovo' />
+  </profile>
+</profiles>
