@@ -3,6 +3,7 @@
 <profiles>
   <profile id='dell'>
     <package package-id='dcsu' />
+    <package package-id='omci' />
   </profile>
 
   <profile id='dell_laptop'>
