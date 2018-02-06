@@ -2,8 +2,8 @@
 
 <profiles>
   <profile id='dell'>
-    <package package-id='dcsu' />
-    <package package-id='omci' />
+    <package package-id='dell_command_update' />
+    <package package-id='dell_command_monitor' />
   </profile>
 
   <profile id='dell_laptop'>
