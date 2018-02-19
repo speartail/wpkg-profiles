@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<profiles>
+  <profile id='it_administration'>
+    <package package-id='adreplstatus' />
+    <package package-id='rsat' />
+  </profile>
+</profiles>
