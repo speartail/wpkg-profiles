@@ -3,6 +3,7 @@
 <profiles>
   <profile id='it_administration'>
     <package package-id='adreplstatus' />
+    <package package-id='ms_sql_studio' />
     <package package-id='rsat' />
   </profile>
 </profiles>
