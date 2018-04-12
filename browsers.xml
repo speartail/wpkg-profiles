@@ -4,5 +4,6 @@
   <profile id='browsers'>
     <package package-id='chrome' />
     <package package-id='firefox' />
+    <package package-id='firefox_policy' />
   </profile>
 </profiles>
